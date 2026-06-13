@@ -1,0 +1,20 @@
+{
+  "name": "Chocotto — ちょこっと集まる",
+  "short_name": "Chocotto",
+  "description": "今日ふらっと、目的だけで集まって、終わったら解散。名前も知らなくていい。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff8f0",
+  "theme_color": "#6f4e37",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
