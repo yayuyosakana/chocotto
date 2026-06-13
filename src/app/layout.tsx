@@ -6,7 +6,7 @@ import { PWARegister } from '@/components/PWARegister';
 export const metadata: Metadata = {
   title: 'Chocotto — ちょこっと集まる',
   description:
-    '今日ふらっと、目的だけで集まって、終わったら解散。名前も知らなくていい。韓国で話題の“숏셜링(ショートソーシャリング)”の東京版。',
+    '今日ふらっと、目的だけで集まって、終わったら解散。名前も知らなくていい、気楽なつながり。',
   applicationName: 'Chocotto',
   manifest: '/manifest.webmanifest',
   appleWebApp: { capable: true, statusBarStyle: 'default', title: 'Chocotto' },

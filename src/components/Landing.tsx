@@ -35,9 +35,6 @@ export function Landing() {
         <br />
         終わったら解散。名前も知らなくていい。
       </p>
-      <div className="mt-4 rounded-full bg-[#fdeee2] px-3 py-1 text-xs font-bold text-[#6f4e37]">
-        🇰🇷 韓国で話題の“숏셜링”、東京版
-      </div>
 
       <button
         onClick={start}
