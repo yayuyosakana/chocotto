@@ -6,7 +6,8 @@
 単発・無名・後腐れゼロの“使い捨ての集まり”を作って・見つけて・参加できる PWA。
 カフェで一緒に黙々作業（body doubling）/ ラン・散歩 / 軽い食事 / 街歩き。
 
-- **本番URL**: （デプロイ後に追記）
+- **本番URL**: https://chocotto.vercel.app
+- **GitHub**: https://github.com/yayuyosakana/chocotto
 - 要件定義: [docs/REQUIREMENTS.md](./docs/REQUIREMENTS.md)
 - 設計: [docs/ARCHITECTURE.md](./docs/ARCHITECTURE.md)
 - 次の一手: [docs/NEXT_STEPS.md](./docs/NEXT_STEPS.md)
